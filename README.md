@@ -1,5 +1,7 @@
 # Walmart Movie Challenge
 
+## Name: Nikhil Satheesh Pillai 
+
 ## Problem Statement
 
 Given a movie theater layout, find the maximal placement of the various reservation that additionally works to prioritize each reservation's satisfaction and safety based on the guidelines provided in the handout. 
